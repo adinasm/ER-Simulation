@@ -2,7 +2,7 @@
 
 
 
-    The project simulates an Emergency Room. The entrypoint is the Main class,
+  The project simulates an Emergency Room. The entrypoint is the Main class,
 where the input is read from a file and an instance of the Hospital class is
 created, as well as its observers, and it is organised in 5 packages:
 
